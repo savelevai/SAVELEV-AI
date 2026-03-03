@@ -1,0 +1,5 @@
+title: SAVELEV-AI
+description: Блог о монетизации AI и Grok
+theme: minima
+markdown: kramdown
+permalink: /:title/
